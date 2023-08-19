@@ -9,7 +9,7 @@ This repository contains a word prediction model implemented using Long Short-Te
 <!-- Table of Contents -->
 ## Table of Contents
 - [Introduction](#introduction)
-- [Installation](#installation)
+- [Accessing](#installation)
 <!-- Introduction -->
 ## Introduction
 
@@ -19,8 +19,8 @@ Unleash the power of language with our Word Prediction model, a cutting-edge app
 
 To run this project locally, follow these steps:
 
-1. Clone this repository:
+1. Go to colab :
 
    ```bash
-   git clone https://github.com/Kapil-Bhardwaj/NextWordPrediction.git
+    https://colab.research.google.com/drive/13nWY5ePeR_bVMsYUNvSbxwfqs1JdiIYT?usp=sharing
 
